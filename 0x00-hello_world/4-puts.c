@@ -1,12 +1,15 @@
- #include <stdio.h>
+#include <stdio.h>
 /**
- * main - Using puts function in programming to print a line
- * Return: 0 (Success)
+ * main - This is a description
+ *
+ * Description: 'the program's description'
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle"
- );
-return (0);
-}
+	char word[] = "\"Programming is like building a multilingual puzzle";
 
+	puts(word);
+	return (0);
+}
