@@ -1,4 +1,4 @@
-#include <stdio.h>
+ #include <stdio.h>
 /**
  * main - Using puts function in programming to print a line
  * Return: 0 (Success)
@@ -9,3 +9,4 @@ puts("\"Programming is like building a multilingual puzzle"
  );
 return (0);
 }
+
